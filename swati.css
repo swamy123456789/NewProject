@@ -1,0 +1,13 @@
+.maindiv{
+    background-color: aqua;
+    width: 100vw;
+    height: 100vh;
+}
+.left{
+    background-color: red;
+    width: 50%;
+}
+.right{
+    background-color: yellow;
+    width: 50%;
+}
