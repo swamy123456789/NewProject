@@ -1,0 +1,101 @@
+.first_heading h1{
+    color: rgb(0, 8, 100);
+    height: 50px;
+    width: 30px;
+}
+.img{
+    color: dimgray;
+    width: 500px;
+    height: 700px;
+}
+/* .first_paragraph p{
+    color: brown;
+} */
+#p1{
+    background-color:rgb(225, 225, 225);
+  width: 259px;
+    height: 248px;
+}
+.first_heading{
+    background-color: darkkhaki;
+    width: 350px;
+    height: 300px;
+    border-radius: 18px;
+    border-style: double;
+    border-color: darkgreen;
+    border-width: 8px;
+}
+#p2{
+    background-color: darkgray;
+    width: 150px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 12px;
+    /* margin: 120px; */
+    margin-right: 350px;
+    margin-left: 600px;
+}
+#L1{
+    background-color: chocolate;
+    width: 217px;
+    height: 40px;
+    border: 5px dashed black;
+    border-width: 5px;
+    border-radius: 10px;
+}
+#c1{background-color: blueviolet;
+    width: 200px;
+    height:250px;
+    border: 3px dotted orangered;
+    margin: 200px;
+}
+#level1{
+    background-color: chartreuse;
+    width: 175px;
+    height: 95px;
+    margin: 20px 50px;
+    border: dotted;
+    border-radius: 8px;
+    border-color: rgb(194, 16, 167);
+    border-width: 3px;
+}
+#level2{
+    background-color: cornflowerblue;
+    margin: 30px 50px 60px 40px;
+    border-style: groove;
+    border-color: darkred;
+    border-left: 45px;
+}
+#pic1{
+    background-color: greenyellow;
+    width: 650px;
+    height: 550px;
+    border-style: double;
+  border-radius: 5px;
+    border-width: 5px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+#v1{
+    background-color: beige;
+    width: 900px;
+    height: 200px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: crimson;
+    margin-left: 600px;
+}
+#z1{background-color: darkolivegreen;
+   width: 260px;
+    height: 140px;
+    margin: 120px;
+    border: 5px dotted red;
+}
+#z2{
+    background-color: aquamarine;
+   width: 150px;
+    height: 140px;
+    border: 10px dotted black;
+    border-radius: 5px;
+    margin: 120px 300px;
+}
