@@ -8,13 +8,70 @@
 <style>
     .new_class{
         background-color: aqua;
-        height: 500px;
-        width: 200px;
+        height: 100vh;
+        width: 100vw;
+      
+    }
+    .left{
+        background-color: bisque;
+        height: 50%;
+        display: flex;
+        
+    }
+    .right{
+        background-color: black;
+       height: 50%;
+       display: flex;
+    
+    }
+    .TopLeft{
+        background-color: blue;
+        width: 50%;
+    }
+    .TopRight{
+        background-color: brown;
+        width: 50%;
+    }
+    .Hi{
+        background-color: burlywood;
+        height: 100%;
+        width: 50%;
+
+    }
+    .Hello{
+        background-color: chartreuse;
+        height:100%;
+        width: 50%;
+    }
+    .new{
+        background-color: coral;
+        height: 100%;
+        width: 50%;
+    }
+    .padding{
+        background-color: aqua;
+        width: 10rem;
+        border: 2px solid red;
+        /* padding: 10px 20px 30px 10px; */
+        text-align: right;
+       
     }
 </style>
 <body>
     <div class="new_class">
-        <h1>hello everyone</h1>
+        <div class="left">
+            <div class="TopLeft"></div>
+            <div class="TopRight"></div>
+        </div>
+        <div class="right">
+            <div class="Hi"></div>
+            <div class="Hello"></div>
+            <!-- <div class="new"></div> -->
+        </div>
     </div>
+    <div class="padding">
+        <h1>Padding</h1>
+    </div>
+
 </body>
 </html>
